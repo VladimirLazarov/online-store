@@ -1,0 +1,22 @@
+
+/* Products container styling */
+.products {      
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;   
+  padding: 20px;
+  background-color: #e91313  /* Red background color */
+}
+/* Styling for product link */
+.product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+/* Styling the total-price*/
+.total-price {
+  text-align: right; /* Position of the text*/
+  padding: 10px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
