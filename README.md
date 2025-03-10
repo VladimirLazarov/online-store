@@ -1,8 +1,22 @@
-# React + Vite
+# Online Store Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is an online store project built with [React.js](https://reactjs.org/) and [Node.js](https://nodejs.org/). It allows users to browse products, add them to a cart, and complete a purchase. The project demonstrates my skills in full-stack development, including front-end design, back-end API development, and database integration.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/online-store.git
+
+## Usage
+- **Home Page**: Browse products and view details.
+- **Cart**: Add products to the cart and proceed to checkout.
+- **Checkout**: Complete the purchase by entering payment details.
+
+## Credits
+- **Author**: [Vladimir Lazarov](https://github.com/VladimirLazarov)
